@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ConditionGreaterLess {
+public class ConditionGreaterLess_Prog5 {
     public static void main(String[] args) {
         Scanner sc= new Scanner (System.in);
 

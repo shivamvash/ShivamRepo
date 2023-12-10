@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class EvenOddCondition {
+public class EvenOddConditionByIfElse_Prog4 {
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
