@@ -6,7 +6,7 @@ public class EvenOddCondition {
         Scanner sc=new Scanner(System.in);
 
         System.out.println("Enter the Number : ");
-        Float Num= sc.nextFloat();
+        float Num= sc.nextFloat();
 
         if (Num%2==0){
             System.out.println("Even Number");
